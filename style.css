@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+#logoUsac{
+    height: 8em;
+    width: 30em;
+    margin-bottom: 6em;
+    margin-top: 3em;
+}
+
+#InSes{
+    font-size: 1.5em;
+    font-family: Arial;
+}
+
+input{
+    width: 40em;
+    height: 2.5em;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#chkMantener{
+    height: 1.25em;
+}
+
+#forPass{
+    text-decoration: none;
+    color:darkgrey ;
+    font-family: Arial;
+}
+
+#btnIniSes{
+    font-size: 1em;
+    color: white;
+    background-color:lightgray;
+    border-color: grey;
+}
