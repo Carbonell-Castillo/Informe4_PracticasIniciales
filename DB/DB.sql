@@ -20,7 +20,7 @@ create table catedratico(
     nombre varchar(400) not null
 );
 
-create table Curso(
+create table curso(
 	id int primary key auto_increment not null,
     nombre varchar(400) not null,
     creditos int not null
@@ -46,6 +46,7 @@ create table comentario(
 	id int primary key auto_increment not null,
     idPublicacion int not null,
     idUsuario varchar(400) not null,
-    comentario varchar(800) not null
+    comentario varchar(800) not null,
+    fechaCreacion datetime not null
 );
 
