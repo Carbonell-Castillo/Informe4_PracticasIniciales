@@ -1,0 +1,20 @@
+.RegistroU{
+    background-color:white;
+    height: 40em;
+    width: 40em;
+    border-radius: 1em;
+    position: relative;
+}
+
+body{
+    background-image: url(https://img3.wallspic.com/crops/1/6/7/2/4/142761/142761-madera-textura-tablon-tinte_para_madera-negro-3840x2566.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logoUsac{
+    margin-top: 1em;
+    height: 7em;
+    width: 27em;
+}
