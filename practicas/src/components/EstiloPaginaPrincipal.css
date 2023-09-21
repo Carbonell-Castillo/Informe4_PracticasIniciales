@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    font-size: 12px;
+    background-color: rgb(243, 243, 243);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    margin: auto;
+    
+}
+
+#barraSuperior {
+    background-color: rgb(162, 220, 238);
+    background-position: center;
+    height: 55px;
+    width: 1600px;
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 2px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    margin: auto;
+}
+
+#Cuadro {
+    background-color: rgb(185, 183, 183);
+    background-position: center;
+    height: 65px;
+    width: 1300px;
+    border-radius: 6px;
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+}
+
+.Titulo {
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+    
+}
+
+.centrado {
+    text-align: center;
+    margin: auto;
+}
